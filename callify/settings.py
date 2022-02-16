@@ -25,7 +25,7 @@ SECRET_KEY = 'm6&g(_b+a8p^638hz&aqluk$&rv9q)tz2v!1#7$t4npi-gj*^k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['callify-hackathon.herokuapp.com']
 
 
 # Application definition
