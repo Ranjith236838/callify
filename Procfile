@@ -1,0 +1,1 @@
+web: gunicorn callify.wsgi --log-file -
